@@ -7,3 +7,8 @@ span{
   padding-left: 0.5rem;
 
 }
+
+.itemCount span {
+  color:black;
+  padding: 1rem;
+}

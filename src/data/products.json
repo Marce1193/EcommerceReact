@@ -1,0 +1,34 @@
+[
+    {
+    "name": "Conjunto de encaje 1" ,
+    "image": "https://d2r9epyceweg5n.cloudfront.net/stores/868/024/products/53a5ee1e-93c7-435d-aeae-19afbe69ff051-de4d9cdfeacab5687216627376783069-1024-1024.jpeg",
+    "stock": 2,
+    "category": "Encaje",
+    "id": "1",
+    "price": 2300
+    },
+    {
+    "name": "Conjunto de encaje 2" ,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_960659-MLA69962600033_062023-O.webp",
+    "stock": 2,
+    "category": "Encaje",
+    "id": "2",
+    "price": 2000    
+    },
+    {
+    "name": "Conjunto de plumeti 1" ,
+    "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/973/777/products/plumeti1-0b1bda569aef1bcaab16029576935014-640-0.jpg",
+    "stock": 2,
+    "category": "Plumeti",
+    "id": "3",
+    "price": 3500
+    },
+    {
+    "name": "Conjunto de plumeti 2" ,
+    "image": "https://d2r9epyceweg5n.cloudfront.net/stores/001/142/679/products/diseno-sin-titulo-501-b294845fd6fa915de216903762535496-1024-1024.jpg",
+    "stock": 2,
+    "category": "Plumeti",
+    "id": "4",
+    "price": 3000
+    }    
+]
